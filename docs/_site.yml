@@ -1,0 +1,8 @@
+---
+title: "LeaDeLe - Learning Deep Learning"
+author: "Cyrille Mascart"
+date: "`r Sys.Date()`"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::html_book
+---

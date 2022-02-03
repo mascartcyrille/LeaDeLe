@@ -1,0 +1,9 @@
+# Requirements
+
+Knowing a bit of the following is necessary.
+- Languages:
+  - C++
+  - R
+- Mathematics:
+  - Linear Algebra
+  - Probability

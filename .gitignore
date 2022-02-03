@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+.Rproj.user
+
+build/
+
+# R things
+**.Rhistory
+**.Rproj
+
+# Qt things
+**CMakeLists.txt.user
