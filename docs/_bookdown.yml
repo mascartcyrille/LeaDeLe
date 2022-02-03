@@ -3,6 +3,7 @@ title: "LeaDeLe - Learning Deep Learning"
 author: "Cyrille Mascart"
 date: "`r Sys.Date()`"
 site: "bookdown::bookdown_site"
+output_dir: "."
 output:
   bookdown::html_book
 ---

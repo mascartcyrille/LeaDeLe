@@ -1,6 +1,0 @@
-preface
-requirements
-supervised-learning
-linear-model
-model
-code
